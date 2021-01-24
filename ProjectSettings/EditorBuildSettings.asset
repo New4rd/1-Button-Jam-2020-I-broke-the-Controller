@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/--- MAIN SCENE ---.unity
+    guid: d7badbbc8a3324b61b431a79c1a72072
+  - enabled: 1
+    path: Assets/Scenes/Interface/Unavailable Button Scene.unity
+    guid: 9049728823121457f8c77b63eefe88bb
+  - enabled: 1
+    path: Assets/Scenes/Interface/Track Selection Scene.unity
+    guid: 11f31222b2695466792616097b600f24
+  - enabled: 1
+    path: Assets/Scenes/Interface/UI Finish Scene.unity
+    guid: d31e5540ce1fe492ebbae819fab93948
+  - enabled: 1
+    path: Assets/Scenes/Black Fade Scene.unity
+    guid: 1c21c6be761274f259f8eee45a77448c
+  - enabled: 1
+    path: Assets/Scenes/Interface/Main Title Scene.unity
+    guid: 59de27fd4b7ea41cb9f9f0ed4a1fa137
+  - enabled: 1
+    path: Assets/Scenes/Interface/2P Track Selection Scene.unity
+    guid: 4391ebf74b1c44890bd05246c14939d3
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 1 Scene.unity
+    guid: 43d4eaa69fc764ef2a7ae092f1fa8c7a
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 2 Scene.unity
+    guid: 0d105674d664749c4b735540660ba91a
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 3 Scene.unity
+    guid: a72a45859b6d94b55af4fd93274d960b
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 4 Scene.unity
+    guid: f31ab99fe893342138026d90cc477a6c
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 5 Scene.unity
+    guid: 1644437adadd54d35a60d68280463654
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 6 Scene.unity
+    guid: 9c6ffbdc5af1341d4bd3e355e03d0d5f
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 7 Scene.unity
+    guid: 942144902b5a6499d9a7eb874cb29217
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 8 Scene.unity
+    guid: 689aeb3959b19406c97f9191d1565c59
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 9 Scene.unity
+    guid: 1394c5266d5dc470caefc8961c6773e2
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 10 Scene.unity
+    guid: 93ca1ba87d6ef488181895ccc9b6edb7
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 11 Scene.unity
+    guid: d03ccb18f05074728ba230dbf3c0c9c1
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 12 Scene.unity
+    guid: 5d857ef3895ce4495adb6987d80495b0
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 13 Scene.unity
+    guid: 3f0a47f75617c46d8875825f0a07027c
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 14 Scene.unity
+    guid: 7a3c5c3c267824dd0a81d4b4a3fc8f96
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 15 Scene.unity
+    guid: 729a58c537d544c2da62bcbc68d2fd02
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 16 Scene.unity
+    guid: 8124287d4161445f1ad9f64ee191a565
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 17 Scene.unity
+    guid: 713f5d96c84924b338df4e56544a39cd
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 18 Scene.unity
+    guid: 4ebf8ea3dcdb24e3299da5e877c3ebe4
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 19 Scene.unity
+    guid: dcb7fddd9bc7943c99ef2bb77185fbb5
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track 20 Scene.unity
+    guid: c8674d11a6bec411ab138cc783a8f6d4
+  - enabled: 1
+    path: Assets/Scenes/Interface/Informations Scene.unity
+    guid: d60693aeba3f043be8b51f840930a01a
+  - enabled: 1
+    path: Assets/Scenes/Interface/UI Scores Display Scene.unity
+    guid: 48baa1931c5e64b8b8f0e1ddafedaf35
+  - enabled: 1
+    path: Assets/Scenes/Interface/Countdown Scene.unity
+    guid: 3fd7b1a730856415c94550fc604c668b
+  - enabled: 1
+    path: Assets/Scenes/Interface/Interface Scene.unity
+    guid: bf98735abc4e54c42a595732c60646cd
+  m_configObjects: {}
